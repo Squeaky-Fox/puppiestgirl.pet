@@ -1,0 +1,21 @@
+.bckgradient {
+    height:400px;
+    width: fit;
+    background: linear-gradient(
+        to right in hsl,
+        hsl(210deg 100% 50%),
+        hsl(315deg 100% 50%),
+    )
+ 
+}
+.test{
+    background-color: blueviolet;
+}
+.grad1 {
+  width: fit;
+  height: 200px;
+  background: linear-gradient(in hsl longer hue 45deg, red 0 100%);
+}
+.backgroundpawbs{
+    width: 100%
+}
